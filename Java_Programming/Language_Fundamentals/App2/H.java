@@ -29,7 +29,7 @@ class H extends G
 	H(int i)
 	{
 		this();
-		System.out.println("N(int)");
+		System.out.println("H(int)");
 	}
 
 	H(double i)

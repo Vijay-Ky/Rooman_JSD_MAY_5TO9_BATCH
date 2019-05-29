@@ -1,0 +1,10 @@
+package rst;
+class H extends G
+{
+	public static void main(String[]args)
+	{
+		G h1 = new G();
+		System.out.println(h1.j);
+		System.out.println(h1.k);
+	}
+}

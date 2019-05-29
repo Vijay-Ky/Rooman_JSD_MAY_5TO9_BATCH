@@ -50,10 +50,5 @@ class H extends G
 		System.out.println("-------------");
 		H h3 = new H(1.0);
 		System.out.println("--------------");
-	}
-		
-}
-
-
-	
+	}		
 }
