@@ -1,0 +1,4 @@
+/*
+Static nested classes
+Static nested classes are not technically an inner class.
+They are like a static member of outer class.*/

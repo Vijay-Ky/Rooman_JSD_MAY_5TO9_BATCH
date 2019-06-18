@@ -1,0 +1,8 @@
+x = float(1) 
+y = float(2.8)
+z = float("3")
+a = float("4.2")
+print(type(x))
+print(type(y))
+print(type(z))
+print(type(a))

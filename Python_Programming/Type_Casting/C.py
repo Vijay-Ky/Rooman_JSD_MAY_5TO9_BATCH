@@ -1,0 +1,8 @@
+x = str(1) 
+y = str(2.8)
+z = str("3")
+a = str("4.2")
+print(type(x))
+print(type(y))
+print(type(z))
+print(type(a))

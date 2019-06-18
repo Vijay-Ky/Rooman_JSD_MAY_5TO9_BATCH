@@ -1,0 +1,19 @@
+public class E
+{  
+	static int count = 0;  
+	static void p(int i)
+	{  
+		System.out.println("hello "+ count); 
+		if(count < 1)
+		{  
+			return;
+		}  
+		count--; 
+		p(count);
+		System.out.println("hello "+ count);
+	}  
+	public static void main(String[] args)
+	{  
+		p(5);  
+	}  
+}  
