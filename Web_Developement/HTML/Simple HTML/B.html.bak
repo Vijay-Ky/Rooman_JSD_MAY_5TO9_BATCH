@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title> This is simple HTML page </title>
+		</head>
+		<body>
+			<h1> My first Heading </h1>
+			<h2> My first Heading </h2>
+			<h3> My first Heading </h3>
+			<h4> My first Heading </h4>
+			<h5> My first Heading </h5>
+			<h6> My first Heading </h6>
+		</body>
+	</html>
+		

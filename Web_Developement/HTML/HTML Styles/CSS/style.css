@@ -1,0 +1,15 @@
+
+    h1
+    {
+        background-color: #6a5acd;
+        border: 5px solid tomato;
+    }
+    p
+    {
+        background-color:pink;
+        border: 5px solid tomato;
+    }
+    q
+    {
+        color:yellow;
+    }
